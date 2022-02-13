@@ -24,3 +24,4 @@ Is there anything else you'd like your instructor to know?
 * 4:00: research and mess around with MUI
 #### 2/13
 * 3:00 organize layout 
+* 4:00: sign up for and try out rebrickable 
