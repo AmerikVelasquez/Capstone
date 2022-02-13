@@ -22,3 +22,5 @@ Is there anything else you'd like your instructor to know?
 #### 2/3 
 * 2:00: research Rebrickable api 
 * 4:00: research and mess around with MUI
+#### 2/13
+* 3:00 organize layout 
