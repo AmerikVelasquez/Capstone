@@ -18,3 +18,7 @@ shouldn't need anything extra
 Is there anything else you'd like your instructor to know?
 
 
+### Research & Planning Log
+#### 2/3 
+* 2:00: research Rebrickable api 
+* 4:00: research and mess around with MUI
