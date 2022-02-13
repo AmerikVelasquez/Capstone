@@ -25,3 +25,4 @@ Is there anything else you'd like your instructor to know?
 #### 2/13
 * 3:00 organize layout 
 * 4:00: sign up for and try out rebrickable 
+* 7:00 end
